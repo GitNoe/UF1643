@@ -46,7 +46,7 @@ En cuanto al lenguaje a utilizar, se tendrían que estudiar los pros y contras d
 
 Como muestra de cómo luciría la aplicación se ha hecho una página en html y css dividida en 4 bloques que representan las que serían algunas de las pantallas a elaborar en la fase de desarrollo. Es una muestra estática, no funcional, con el objetivo de visualizar la distribución de elementos que se llevaría a cabo.
 
-![index](index.png)
+![index](img/index.png)
 
 ### Conclusión y final
 
@@ -54,4 +54,4 @@ Una aplicación de este calibre podría llevarse a cabo de muchas formas o punto
 
 Se ha subido el ejercicio completo a un repositorio de github y se ha impreso la página de inicio del mismo para su entrega.
 
-![github](github.png)
+![github](img/github.png)
